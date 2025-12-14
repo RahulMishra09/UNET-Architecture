@@ -110,6 +110,6 @@ jupyter notebook
 - ARU-Net: See `Aru-net.pdf` and `Aru-net Architecture.pdf` in this repository for the architecture and ablation details.
 - BraTS: Menze et al., Bakas et al. Brain Tumor Segmentation (BraTS) Challenges 2012–2020.
 
-If you use this repository in academic work, please cite the appropriate papers above.
+
 
 
